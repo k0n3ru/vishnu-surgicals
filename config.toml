@@ -1,0 +1,4 @@
+baseURL = "http://k0n3ru.github.io/"
+languageCode = "en-us"
+title = "Vishnu Surgicals"
+theme = "showcase"
